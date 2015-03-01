@@ -4,10 +4,18 @@
   <title>HotoCocoa.github</title>
     <script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
     <link rel="import" href="bower_components/core-elements/core-elements.html">
+    <link rel="stylesheet" src="css/main.css" />
   </head>
-  <body>
-    <div horizontal center-justified layout>
-      <div>はぁ......ココアちゃん......！</div>
-    </div>
+  <body fullbleed layout vertical>
+    <core-header-panel mode="waterfall-tall" flex>
+      <core-toolbar class="core-header">
+        <div>Cocoa Hoto</div>
+      </core-toolbar>
+      <div class=content>
+        <div horizontal center-justified layout>
+          <div>はぁ......ココアちゃん......！</div>
+        </div>
+      </div>
+    </core-header-panel>
   </body>
 </html>
