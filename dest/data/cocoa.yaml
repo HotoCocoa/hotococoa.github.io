@@ -5,3 +5,17 @@
   repo: https://github.com/Himanoa/Cocoa.git
   author: Himanoa
   avatar: https://avatars2.githubusercontent.com/u/6220062
+- name: chitoku-k/Cocoa
+  url: https://github.com/chitoku-k/Cocoa
+  about: はぁ…ココアちゃん……！！
+  detail: Himanoa/Cocoaのnodejs実装
+  repo: https://github.com/chitoku-k/Cocoa.git
+  author: chitoku-k
+  avatar: https://avatars2.githubusercontent.com/u/6535425
+- name: kb10uy/SideStoryServer
+  url: http://ss.kb10uy.tk/
+  about: Let's share your short stories!
+  detail: SSを投稿したりするやつ
+  repo: https://github.com/kb10uy/SideStoryServer.git
+  author: kb10uy
+  avatar: https://avatars0.githubusercontent.com/u/2630080
